@@ -10,6 +10,7 @@ ID: ID Number of Customers. Warehouse block: The Company have big Warehouse whic
 
 This data of Product Shipment Tracking, answer instantly to your questions:
 
-What was Customer Rating? And was the product delivered on time?
-Is Customer query is being answered?
-If Product importance is high. having higest rating or being delivered on time?
+1. What was Customer Rating? And was the product delivered on time?
+2. Is Customer query is being answered?
+3. If Product importance is high. having higest rating or being delivered on time?
+
